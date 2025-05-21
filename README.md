@@ -232,7 +232,7 @@ done
 
 * e) A partir de los resultados anteriores, ¿ qué modificaciones deben realizarse para obtener el total de ingresos de todas las estaciones para todos los registros en el archivo, en otras palabras para todos los años registrados 2021 .. 2025?
   * R. Para ello se intentó realizar de dos formas: la primera, considerando que no se sabe cuántos años abarca el registro pero se quiere aislar los años de 2021-2025, con ```grep -e```, y la segunda, considerando que se conoce que todos los registros se encuentran en este rango, únicamente con ```cat```, y manteniendo la estructura básica de lo anteriormente descrito en c, b...
-![Ejemplo salida e grep](https://github.com/jazminnhalaura-unam/proyecto/blob/master/imgs/egrep.png)
-![Ejemplo salida e cat](https://github.com/jazminnhalaura-unam/proyecto/blob/master/imgs/ecat.png)
+<img src="https://github.com/jazminnhalaura-unam/proyecto/blob/master/imgs/e grep.png" alt="Ejemplo salida e grep"/>
+<img src="https://github.com/jazminnhalaura-unam/proyecto/blob/master/imgs/e cat.png" alt="Ejemplo salida e cat"/>
 
 Dado que ambas opciones dieron el mismo resultado, se confirma que los registros se encuentran en ese rango. 
