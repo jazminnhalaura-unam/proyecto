@@ -19,6 +19,19 @@
 
 ![Ejemplo de la estructura del archivo csv de entrada](https://github.com/jazminnhalaura-unam/proyecto/blob/master/imgs/tabla1.png)
 
+Archivo generado, separado por comas: 
+```
+Estacion,Longitud,Latitud,Tmax,Pmax,Date
+ENP1,-99.1220,19.2713,24.8,,2022-01
+ENP2,-99.0999,19.3840,25.5,5.1,2022-01
+ENP3,-99.0948,19.4818,26.4,1.8,2022-01
+ENP4,-99.1949,19.4037,,,2022-01
+ENP5,-99.0805,19.1624,25.1,.2,2022-01
+ENP6,-99.0924,19.2107,25.4,3.0,2022-01
+ENP7,-99.1269,19.4197,23.7,1.0,2022-01
+ENP8,-99.1945,19.3674,,,2022-01
+ENP9,-99.1281,19.4833,25.3,9.8,2022-01
+```
 2. Clonar el repositorio en el home de su usuario en Tlaloc
 Para realizarlo se utilizó la opción:
 ```
